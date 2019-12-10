@@ -30,6 +30,6 @@ answers = [
 ]
 
 puts hello.sample
-sleep 2
+sleep 3
 puts
 puts answers.sample
