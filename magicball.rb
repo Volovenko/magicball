@@ -29,7 +29,7 @@ answers = [
   "Весьма сомнительно"
 ]
 
-puts hello.sample
+puts greetings.sample
 sleep 3
 puts
 puts answers.sample
